@@ -1,0 +1,10 @@
+# Specify filepatterns you want git to ignore.
+.idea/
+firmware/build
+firmware/.project
+firmware/.cproject
+firmware/.settings
+toolchain
+firmware/cmake-build-debug-water_tool
+firmware/cmake-build-debug/
+**/cmake-build-debug/

@@ -1,0 +1,15 @@
+[submodule "firmware/lib/thirdparty/coreMQTT"]
+	path = firmware/contrib/coreMQTT
+	url = https://github.com/FreeRTOS/coreMQTT
+[submodule "firmware/lib/thirdparty/backoffAlgorithm"]
+	path = firmware/src/comm/nb-iot/contrib/backoffAlgorithm
+	url = https://github.com/FreeRTOS/backoffAlgorithm/
+[submodule "LoRaMac-node"]
+	path = firmware/lora/contrib/LoRaMac-node
+	url = https://github.com/Lora-net/LoRaMac-node
+[submodule "firmware/nb-iot/contrib/cellular"]
+	path = firmware/src/comm/nb-iot/contrib/cellular
+	url = https://github.com/BCIT-Reseach-Long-Term-ISSP/FreeRTOS-Cellular-Interface.git
+[submodule "firmware/lora/contrib/arduino-lmic"]
+	path = firmware/src/comm/lora/contrib/arduino-lmic
+	url = https://github.com/BCIT-Reseach-Long-Term-ISSP/arduino-lmic.git
